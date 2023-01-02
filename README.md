@@ -1,4 +1,4 @@
-# Neural-Intrusion-Detection-System
+# Simple Neural Intrusion Detection System
 
 This code assumes that you have a CSV file called intrusion_detection_data.csv that contains the data you want to use for training and testing. The code loads the data into a Pandas DataFrame, preprocesses it by encoding the labels and removing missing values, and then splits it into training and test sets.
 
